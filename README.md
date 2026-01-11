@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Web Development projects<br>🌱 I’m currently learning React & Full-Stack Development<br>👯 I’m looking to collaborate on Open Source & Web Apps<br>🤔 I’m looking for help with System Design & DSA<br>💬 Ask me about Java, Python, HTML, CSS, JavaScript<br>🎯 Actively looking for Web Development / Software Development Internships<br>📫 How to reach me: guptadaksh1030@gmail.com<br>⚡ Fun fact: I love building projects and organizing tech events</p>
+<p align="left">🔭 I’m currently working on Web Development projects<br>🌱 I’m currently learning React & Full-Stack Development<br>👯 I’m looking to collaborate on Open Source & Web Apps<br>🤔 I’m looking for help with System Design & DSA<br>💬 Ask me about Java, Python, HTML, CSS, JavaScript<br>🎯 Actively looking for Web & Software Development Internships<br>📫 How to reach me: guptadaksh1030@gmail.com<br>⚡ Fun fact: I love building projects and organizing tech events</p>
 
 ###
 
